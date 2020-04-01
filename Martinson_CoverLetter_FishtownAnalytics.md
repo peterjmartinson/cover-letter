@@ -1,8 +1,8 @@
 Dear Hiring Manager,
 
-<Note: This cover letter was composed using **Vim**, and checked into a local **Git** repository.  Not because it's required, but because it's how I like to do things.>
+<Note: This cover letter was composed using **Vim**, and checked into a [**Git**](https://github.com/peterjmartinson/cover-letter) repository.  This is how I typically work.>
 
-In other words, I am super excited to apply to the *Analytics Engineer* position with Fishtown Analytics.  As this letter will demonstrate, I work smart, communicate clearly, and care deeply about my work.  These skills along with my honed analytic skills make me an excellent candidate for the position.
+I am very excited to apply to the *Analytics Engineer* position with Fishtown Analytics.  As this letter will demonstrate, I work smart, communicate clearly, and care deeply about my work.  These skills along with my honed analytic skills make me an excellent candidate for the position.
 
 I've been working on contract with Comcast Corp. since 03/02/2020, and was just dropped to zero hours due to the novel coronavirus outbreak.  My duties during my short time there included analyzing web traffic data using the Python analysis stack (Jupyter Notebook, Pandas, Numpy, Matplotlib), manipulating data on AWS Elasticsearch, and collaborating with stakeholders to gather requirements and sniff out data sources.
 
